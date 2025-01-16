@@ -28,9 +28,9 @@
 * **10-fold cross-validation.**
 * **Holdout strategy** for unseen data.
 
-## 3. Conducted error analysis and statistical comparison of results.
+**3. Conducted error analysis and statistical comparison of results.**
 
-**3. Critical Analysis:**
+## 3. Critical Analysis:
 
 * Addressed overfitting in decision trees using various train-test splits.
 * Investigated model performance metrics such as accuracy, precision, recall, and F1 score.
