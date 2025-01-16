@@ -33,3 +33,20 @@
 * Addressed overfitting in decision trees using various train-test splits.
 * Investigated model performance metrics such as accuracy, precision, recall, and F1 score.
 * Discussed strengths and weaknesses of each model.
+
+# Getting Started
+Follow these steps to run the project locally:
+
+**1. Clone the Repository:**
+```
+https://github.com/labib08/IMDB-Movie.git
+```
+**2. Navigate to the Directory:**
+```
+cd imdb-movie-prediction
+```
+**3. Install Dependencies:**
+```
+pip install -r requirements.txt
+```
+**4. Keep the training and test dataset in the same directory as the main.py file, as well as the features_doc2vec folder that was already given**
