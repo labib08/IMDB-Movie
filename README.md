@@ -25,7 +25,7 @@
 * K-NN: Tuned distance metrics and K-values.
 ## 2. Evaluated models using:
 * **10-fold cross-validation.**
-* **Holdout strategy for unseen data.**
+* **Holdout strategy** for unseen data.
 ## 3. Conducted error analysis and statistical comparison of results.
 
 **3. Critical Analysis:**
