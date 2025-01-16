@@ -11,12 +11,12 @@
 * **Doc2Vec:** Vector representation for non-numeric data.
 * **Logistic Regression, K-NN, Decision Trees:** Machine learning models for prediction.
 # Methodologies
-**1. Data Preprocessing:**
+## 1. Data Preprocessing:
 
 * Embedded non-numeric features using FastText and Doc2Vec.
 * Performed feature selection to identify the most relevant attributes.
 * Handled missing values and normalized numerical features.
-* 
+
 ## 2. Model Comparison:
 
 **1. Implemented four supervised learning models:**
@@ -31,7 +31,7 @@
 
 ## 3. Conducted error analysis and statistical comparison of results.**
 
-**3. Critical Analysis:**
+**Critical Analysis:**
 
 * Addressed overfitting in decision trees using various train-test splits.
 * Investigated model performance metrics such as accuracy, precision, recall, and F1 score.
